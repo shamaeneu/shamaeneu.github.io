@@ -1,0 +1,1137 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+  <head>
+
+        <!-- Google Tag Manager -->
+    <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+    new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+    j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+    'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+    })(window,document,'script','dataLayer','GTM-KSFPB8Z');</script>
+    <!-- End Google Tag Manager -->
+
+        <!-- Global site tag (gtag.js) - Google Analytics -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=UA-138002412-1"></script>
+    <script>
+      window.dataLayer = window.dataLayer || [];
+      function gtag(){dataLayer.push(arguments);}
+      gtag('js', new Date());
+
+      gtag('config', 'UA-138002412-1', { 'optimize_id': 'GTM-WKBQX6L'});
+    </script>
+
+        <!-- Anti-flicker snippet (recommended)  -->
+    <style>.async-hide { opacity: 0 !important} </style>
+    <script>(function(a,s,y,n,c,h,i,d,e){s.className+=' '+y;h.start=1*new Date;
+    h.end=i=function(){s.className=s.className.replace(RegExp(' ?'+y),'')};
+    (a[n]=a[n]||[]).hide=h;setTimeout(function(){i();h.end=null},c);h.timeout=c;
+    })(window,document.documentElement,'async-hide','dataLayer',4000,
+    {'GTM-WKBQX6L':true});</script>
+
+      <!-- Global site tag (gtag.js) - Google Ads: 753226843 -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=AW-753226843"></script>
+    <script>
+      window.dataLayer = window.dataLayer || [];
+      function gtag(){dataLayer.push(arguments);}
+      gtag('js', new Date());
+
+      gtag('config', 'AW-753226843');
+    </script>
+
+    <!-- Event snippet for Lead Generation 01 conversion page-->
+      <script>
+      function gtag_report_conversion(url) {
+        var callback = function () {
+          if (typeof(url) != 'undefined') {
+            window.location = url;
+          }
+        };
+        gtag('event', 'conversion', {
+            'send_to': 'AW-753226843/gVp5CKLR9ZgBENuolecC',
+            'event_callback': callback
+        });
+        return false;
+      }
+      </script>
+
+    <meta charset="utf-8">
+    <meta name="description" content="Creative Ed Agency based in Cape Town. We create educational explainer video content and animations that spark curiosity. Get a Quote">
+    <meta name="keywords" content="Experiential, elearning, Video Production, Cape Town, Social Media, Education, Explainers,Post-production, Editing, Filming, Education, Scriptwriting,Learning, Edtech, Production, Educational Production, Global, E-learning, Videos, Explainers, Interactive Videos,">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <meta property=”og:title” content="Educational Explainers | StudioZafari" />
+    <meta property=”og:description” content="Video Explainer Production | Studio Zafari a full-service educational production company. Contact us now for a quote." />
+    <meta property=”og:url” content="https://www.studiozafari.com"/>
+    <meta property=”og:image” content="https://studiozafari.com/img/Social_Img_01-01.png"/>
+    <meta name=”twitter:card” content=”summary_large_image”>
+    <meta name=”twitter:title” content="Educational Explainers | Studio Zafari"/>
+    <meta name=”twitter:description” content="Create video content that sparks curiosity | Studio Zafari a full-service educational production company. Contact us now for a quote."/>
+    <meta name=”twitter:url” content="https://www.studiozafari.com" />
+    <meta name=”twitter:image” content="https://studiozafari.com/img/Social_Img_01-01.png">
+
+    <title>Creative Ed Agency | Video Explainer Production | Studio Zafari</title>
+
+    <link rel="shortcut icon" type="image/png" href="img/64w/Favicon_01.png"/>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/fancybox/3.5.7/jquery.fancybox.min.css" />
+    <link href="https://fonts.googleapis.com/css?family=Work+Sans:400,700,800" rel="stylesheet">
+
+    <style>
+      :root{
+        --dark: #25003d;
+        --green:#00ecbc;
+        --red: #ff2e64;
+        --purple: #602d8f;
+      }
+      body{
+        font-family: 'Work Sans', sans-serif;
+        background-color: var(--dark, #25003d);
+        margin:0px;
+        width: 100%;
+        box-sizing: border-box;
+        overflow-x: hidden;
+      }
+      html{
+        scroll-behavior: smooth;
+      }
+      .top-banner{
+        color:#fff;
+        /* background-color: var(--dark); */
+        width:100%;
+      }
+      a{
+        color: var(--green);
+      }
+      p{
+        color: #fff;
+      }
+      .top-banner-text{
+        padding: 150px 0 200px 0;
+        transition: all 1s;
+        transform: translateX(15%);
+        z-index: 1;
+      }
+      .top-banner-text h1{
+        margin-bottom:10px;
+        margin-top:20px;
+        font-size:65px;
+        font-weight: 700;
+        padding-right: 20px;
+        transition: all 1s;
+      }
+      .tagline{
+        font-size: 20px;
+        font-weight:100;
+        padding-right:20%;
+        color: var(--green);
+        letter-spacing:1px;
+        word-spacing:2px;
+        text-transform: uppercase;
+      }
+      .Top-Btn{
+        background-color: var(--red);
+        width: 110px;
+        padding: 12px 35px;
+        color: white;
+        margin-right: 20px;
+        text-align: center;
+        text-decoration: none;
+        transition: background-color 0.5s;
+        border-radius: 5px;
+      }
+      .Top-Btn:hover{
+          background-color: var(--purple);
+      }
+      .cat-boxes{
+        background-color:var(--dark);
+        width:22%;
+        padding:40px 50px;
+        color: #fff;
+        box-shadow: 0px 0px 50px rgba(96, 45, 143, 0.15);
+        border-radius:10px;
+        border-style: solid;
+        border-width: 1px;
+        border-color: var(--purple);
+        margin: 20px 10px;
+        min-width: 200px;
+        position:relative;
+        top:0px;
+        transition: background-color 1s, top 1s, color 1s, box-shadow 1s;
+      }
+      .cat-boxes p{
+        min-block-size:57px;
+      }
+      .cat-boxes h1{
+        font-size: 1.4em
+      }
+      .cat-boxes:hover {
+        background-color:var(--purple);
+        top:-20px;
+        color: #fff;
+        box-shadow: 0px 30px 50px rgba(0, 0, 0, 0.2);
+      }
+      .cat-boxes:hover .cat-tab{
+        width:80%;
+      }
+      .sec-02{
+        background-color: var(--purple);
+        background-position: 0px -400px;
+        position: relative;
+        margin-top: -0px;
+      }
+      .sec-03{
+        background-color: var(--dark);
+        width: 100%;
+      }
+      .sec-03-desc{
+        width:100%;
+        padding: 150px 0px 150px 10%;
+        color: #fff;
+        box-sizing: border-box;
+      }
+      .s3-text-div{
+        width: 45%;
+        margin-right: 6%;
+        max-width: 575px;
+      }
+      .sec-03-vid-container{
+        width: 49%;
+        /* max-width: 400px; */
+      }
+      .sec-03-vid-block{
+        margin-top: 25px;
+        width: 100%;
+        height: 70%;
+        box-shadow: 0px 0px 50px rgba(0, 0, 0, 0.5);
+        overflow: hidden;
+        border-radius: 10px 0 0 10px;
+        background-position: center;
+        min-height: 400px;
+        display: flex;
+      }
+      .s-04-main{
+        width:50%;
+        box-sizing: border-box;
+      }
+      /* .s-04-main:hover{
+        width: 50%;
+      } */
+      .s-04-video{
+        position: relative;
+        margin: auto;
+        top:-50px
+      }
+      .vid-div{
+        display: block;
+        width: 640px;
+        height: 100%;
+        background-color: white;
+        margin: auto;
+        box-shadow: 0px 0px 50px rgba(96, 45, 143, 0.5);
+      }
+      .s-07-title{
+        width: 50%;
+        padding: 70px 80px 70px 150px;
+        box-sizing: border-box;
+        background-color: var(--purple);
+        color: white;
+      }
+      .cat-tab{
+        width:70px;
+        height:10px;
+        margin-top:7px;
+        background-color:var(--green);
+        transition: width 1s;
+      }
+      .cat-button{
+        padding:10px 20px;
+        width:150px;
+        text-align:center;
+        background-color: var(--green);
+        color:var(--dark);
+      }
+      .cat-sect{
+        display: flex;
+        flex-wrap: wrap;
+        position: relative;
+        margin: 0px 0%;
+        justify-content:center;
+        top:-90px;
+        /* animation-name: pos;
+        animation-duration: 2s; */
+      }
+      h2{
+        font-size: 70px;
+        margin-bottom: 40px;
+        margin-top: 15px;
+        font-weight: 700;
+      }
+      h3{
+        font-weight: 300;
+        margin: 0;
+      }
+      h1 span{
+        color:var(--green);
+      }
+      h2 span{
+        color: var(--green);
+      }
+      p span{
+        color: #fff;
+      }
+      h6{
+        color:var(--green);
+        font-weight: 200;
+        letter-spacing:10px;
+        text-transform: uppercase;
+        margin-left: 3px;
+      }
+      #bx-01{
+        animation-name: pos, fade;
+        animation-duration: 1.5s;
+      }
+      #bx-02{
+        animation-name: pos, fade;
+        animation-duration: 2s;
+      }
+      #bx-03{
+        animation-name: pos, fade;
+        animation-duration: 2.5s;
+      }
+      div a span{
+        position:absolute;
+        width:100%;
+        height:100%;
+        top:0;
+        left: 0;
+      }
+      .service-boxes{
+        width: 75%;
+        padding: 0px 5%;
+        border-width: 0px;
+        border-style:solid;
+        border-color: var(--dark);
+        /* box-shadow: 0px 0px 50px rgba(0, 0, 0, 0.25); */
+        margin: 20px;
+        color: white;
+        /* background-color: #1c152f; */
+      }
+      .service-boxes h3{
+        font-size: 30px;
+        font-weight: 900;
+        letter-spacing: 2px;
+        margin: 10px 0px;
+      }
+      .service-tab{
+        width:50px;
+        height:10px;
+        margin-top:7px;
+        background-color:var(--red);
+      }
+      .services-list-block{
+        width: 50%;
+        background-color: var(--dark);
+        padding: 70px 0px;
+      }
+      #exp-block{
+        padding: 150px 3% 150px 10%;
+      }
+      #exp-int{
+        padding: 150px 5%;
+        margin-left:50%;
+        width:50%;
+      }
+      #Experiential{
+        background-image: url('../img/Stock/adrien-olichon-1205269-unsplash.jpg');
+        background-size: 55%;
+        background-position-y: center;
+        background-repeat: no-repeat;
+        background-color: var(--purple);
+        background-position-x: right;
+      }
+      #Interactive{
+        background-image: url('../img/Stock/casual-college-connection-1438081.jpg');
+        background-size: 120%;
+        background-position-y: center;
+        background-repeat: no-repeat;
+        background-color: var(--purple);
+        background-position-x: right;
+      }
+      #Stand-Alone{
+        background-image: url('../img/Stock/vanilla-bear-films-1328761-unsplash.jpg');
+        background-size: 150%;
+        background-position-y: center;
+        background-repeat: no-repeat;
+        background-color: var(--purple);
+        background-position-x: center;
+      }
+      #int-resp{
+        position: relative;
+        right: 100px;
+      }
+      .s-04-block{
+        width: 100%;
+      }
+      .Watch-Btn{
+        padding:10px 40px;
+        background-color: none;
+        border-width: 3px;
+        border-style: solid;
+        border-color: var(--purple);
+        width: initial;
+        display: inline-block;
+        border-radius: 50px;
+        transition: background-color 0.5s;
+      }
+      .Watch-Btn:hover{
+        background-color: var(--purple);
+        border-color: var(--purple);
+      }
+      a{
+        text-decoration: none;
+      }
+      .sec-08{
+        background-color: var(--dark);
+      }
+      .learn-btn{
+        background-color: var(--purple);
+        width: 100px;
+        padding: 10px 20px;
+        color: white;
+        margin-top: 50px;
+        text-align: center;
+        box-shadow: 0px 0px 30px rgba(0, 0, 0, 0.25);
+        transition: all 0.5s;
+        border-radius: 5px;
+      }
+      .learn-btn:hover{
+        background-color: var(--red);
+      }
+      .contact-text{
+        width: 50%;
+        color: white;
+        padding: 80px 120px;
+        box-sizing: border-box;
+      }
+      .contact-form{
+        width: 50%;
+      }
+      #myVideo{
+        position: fixed;
+        right: calc(-960px + 50vw);
+        bottom: 10px;
+        z-index: -2;
+        top:0px;
+        opacity: 0.7;
+        display: block;
+      }
+      .latest-cont{
+        padding: 250px 80px;
+        color: white;
+        text-align: center;
+        background-repeat: no-repeat;
+        background-image: url('../img/Latest_Content_Cookie_01.png');
+        background-position: center;
+        background-size: cover;
+      }
+      .vid-box:hover .cnt-bx{
+        opacity: 1;
+      }
+      .vid-box:hover .cnt-bx div{
+        transform: translateX(30px);
+      }
+      .vid-box .cnt-bx div{
+        transition: all 1s;
+      }
+      .cnt-bx{
+        background-color: #00000080;
+        min-height: 260px;
+        opacity: 0;
+        color: white;
+        transition: all 1s;
+      }
+      .cnt-bx h2{
+        margin: 0;
+      }
+      .cnt-bx h5{
+        margin: 0;
+        font-size: 1.2em;
+        font-weight: 100;
+      }
+      .cnt-bx div{
+        padding-top:10%;
+        padding-left: 0%;
+        padding-right: 30px;
+      }
+      .cnt-bx div h2 {
+        font-size: 1.5em;
+      }
+      .vid-box{
+        background-size: cover;
+        background-position: center center;
+      }
+      .overlay-box{
+        background-size: cover;
+        background-position: center center;
+      }
+      .vid-gal-cont{
+        grid-template-columns: 33% 34% 33%;
+      }
+      /* Campaigning Excellence - UK Gov */
+      #vb-01{
+        background-image: url('../img/vid/frame_923.jpg');
+        background-size: 100%;
+      }
+      .vid-box:hover#vb-01{
+        background-size: 110%;
+        transition: all 0.3s ease-in-out;
+      }
+      /* Interim Salary Adjustments - Momentum */
+      #vb-02{
+        background-image: url('../img/vid/Interim Salary Adjustments - Momentum.png');
+        background-size: 100%;
+      }
+      .vid-box:hover#vb-02{
+        background-size: 110%;
+        transition: all 0.3s ease-in-out;
+      }
+      /* Crisis Communications - UK Gov */
+      #vb-03{
+        background-image: url('../img/vid/Frame_CC_001.jpg');
+        background-size: 100%;
+      }
+      .vid-box:hover#vb-03{
+        background-size: 110%;
+        transition: all 0.3s ease-in-out;
+      }
+      /* Parenting Styles - McGraw Hill */
+      #vb-04{
+        background-image: url('../img/vid/Parenting Styles - McGraw Hill.png');
+        background-size: 100%;
+      }
+      .vid-box:hover#vb-04{
+        background-size: 110%;
+        transition: all 0.3s ease-in-out;
+      }
+      /* Campaigning Excellence - UK Gov */
+      #vb-05{
+        background-image: url('../img/vid/Frame_CE_002.jpg');
+        background-size: 100%;
+      }
+      .vid-box:hover#vb-05{
+        background-size: 110%;
+        transition: all 0.3s ease-in-out;
+      }
+      /* CDTK -GIZ */
+      #vb-06{
+        background-image: url('../img/vid/CDTK -GIZ.png');
+        background-size: 100%;
+      }
+      .vid-box:hover#vb-06{
+        background-size: 110%;
+        transition: all 0.3s ease-in-out;
+      }
+      /* Hotel Management System - RoomRaccoon */
+      #vb-07{
+        background-image: url('../img/vid/Hotel Management System - RoomRaccoon.png');
+        background-size: 100%;
+      }
+      .vid-box:hover#vb-07{
+        background-size: 110%;
+        transition: all 0.3s ease-in-out;
+      }
+      /* QueaseEASE - SoothingScents */
+      #vb-08{
+        background-image: url('../img/vid/QueaseEASE - Soothing Scents.png');
+        background-size: 100%;
+      }
+      .vid-box:hover#vb-08{
+        background-size: 110%;
+        transition: all 0.3s ease-in-out;
+      }
+      /* Euclid - Zafari Learn */
+      #vb-09{
+        background-image: url('../img/vid/Euclid_Img_01.jpg');
+        background-size: 100%;
+      }
+      .vid-box:hover#vb-09{
+        background-size: 110%;
+        transition: all 0.3s ease-in-out;
+      }
+      /* Gender Equality - INFF */
+      #vb-10{
+        background-image: url('../img/vid/Gender Equality - INFF.png');
+        background-size: 100%;
+      }
+      .vid-box:hover#vb-10{
+        background-size: 110%;
+        transition: all 0.3s ease-in-out;
+      }
+      /* Online Learning Portal - Momentum */
+      #vb-11{
+        background-image: url('../img/vid/Online Learning Portal - Momentum.png');
+        background-size: 100%;
+      }
+      .vid-box:hover#vb-11{
+        background-size: 110%;
+        transition: all 0.3s ease-in-out;
+      }
+      /* AMSA - GIZ */
+      #vb-12{
+        background-image: url('../img/vid/AMSA - GIZ.png');
+        background-size: 100%;
+      }
+      .vid-box:hover#vb-12{
+        background-size: 110%;
+        transition: all 0.3s ease-in-out;
+      }
+
+      /* Animation */
+
+      @keyframes pos {
+          from {top: +90px;}
+          to {top: 0px;}
+      }
+      @keyframes fade {
+        from {opacity: 0;}
+        to {opacity: 1;}
+      }
+
+      /* Responsive */
+
+      @media (max-width: 1076px){
+        .cat-boxes{
+          width:75%;
+        }
+        /* #bx-03{
+          width: 77%;
+        } */
+        .sec-03-desc{
+          padding-right: 10%
+        }
+        .s3-text-div{
+          width:100%;
+          max-width:none;
+        }
+        .sec-03-vid-container {
+          width: 100%;
+        }
+        .s-07-title{
+          padding-left: 8%;
+          padding-right: 8%;
+        }
+        .sec-03-vid-block{
+          border-radius: 10px;
+        }
+      }
+      @media (max-width: 965px) {
+        .top-banner-text h1{
+          padding-right: 100px;
+        }
+        .vid-gal-cont{
+        grid-template-columns: 50% 50%;
+        }
+        .top-banner-text{
+          padding:150px 10% 200px 15%;
+          transform: none;
+        }
+        .contact-text{
+          width: 100%;
+          padding-bottom: 50px;
+        }
+        .contact-form{
+          width: 100%;
+        }
+        #exp-block{
+          padding: 10% 10% 10% 10%;
+        }
+        #lottie{
+          display: none;
+        }
+      }
+      @media (max-width: 815px){
+        .cat-boxes{
+          width:60%;
+        }
+        #bx-03{
+          width: 60%;
+        }
+        .top-banner-text{
+          padding:120px 10% 150px 10%;
+        }
+        .s-04-video{
+          top:0px;
+        }
+        .s3-text-div{
+          width: 100%;
+        }
+        .sec-03-box{
+          width:100%;
+          max-width: none;
+          margin-top: 70px;
+          height: 200px
+        }
+        #exp-block{
+          padding: 20px 10% 20px 10%;
+        }
+        #exp-int{
+          padding: 150px 5%;
+        }
+        .service-boxes{
+          padding: 0px;
+        }
+      }
+      @media (max-width: 700px){
+        .top-banner-text h1{
+          font-size:40px;
+          line-height: 45px;
+          padding-right: 0px;
+        }
+        .vid-gal-cont{
+        grid-template-columns: 100%;
+      }
+        .top-banner-text{
+          padding:50px 10% 150px 10%;
+        }
+        .vid-div{
+          display: none;
+        }
+        .sec-03-desc{
+          padding-left: 10%
+        }
+        .s3-text-div {
+          margin-right: 0px;
+        }
+        /* .s3-text-div  */
+        h2{
+          font-size: 50px;
+        }
+        .sec-07{
+          flex-wrap:wrap;
+          background-color: var(--dark);
+        }
+        .s-07-title{
+          width: 100%;
+        }
+        .service-boxes{
+          width:70%
+        }
+        .s-04-block{
+          width: 100%;
+        }
+        .s-04-main{
+          width:100%;
+        }
+        #exp-int{
+          padding: 50px 10%;
+          margin: 0px;
+          width:100%;
+        }
+        #int-resp{
+          margin-left: 0px;
+          right: 0px;
+        }
+        .contact-text{
+          padding: 80px 10%;
+        }
+        #exp-block{
+          padding: 50px 10% 50px 10%
+        }
+        .top-banner{
+          background-color: var(--dark);
+        }
+        #video{
+          display: none;
+        }
+        .services-list-block {
+          width: 100%;
+          margin: auto;
+        }
+        #Experiential{
+          background-image: none;
+        }
+        #Interactive{
+          background-image: none;
+        }
+        #Stand-Alone{
+          background-image: none;
+        }
+        .latest-cont{
+          background-image: url('../img/Latest_Content_Cookie_01_LR.png');
+          padding: 100px 80px;
+        }
+      }
+    </style>
+
+  </head>
+<body style="background-color: #25003d;">
+
+  <!-- Google Tag Manager (noscript) -->
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-KSFPB8Z"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<!-- End Google Tag Manager (noscript) -->
+
+  <div style="max-width: 1920px; margin: auto;">
+    <a href="https://www.linkedin.com/posts/studio-zafari_are-your-zoom-videos-boring-activity-6858349510767194112-DZY8" target="_blank" rel="noopener" style="display:none">
+      <div style="cursor: pointer; padding: 20px; background: var(--red); text-align: center; color: white; margin: 16px 16px 0 16px; border-radius: 10px;">
+        <h3>Level up your zoom videos! <b>Find out more about our Zoom video special offer</b></h3>
+      </div>
+    </a>  
+
+    <section title= "Studio Zafari" class="top-banner" style="display: flex;">
+      <div class="top-banner-text">
+        <img src="img/Zafari_Logo_01-01.svg" alt="Zafari Logo" style="width:200px; margin: 10px 0px;"/>
+        <h1>Create immersive video learning adventures<span>.</span></h1>
+        <p class="tagline">Design | Scriptwriting | Filming | Animation | Editing</p>
+        <div class="Banner-buttons" style="display: flex; flex-wrap: wrap; margin: 30px 0px;">
+          <a href="#Contact">
+            <div class="Top-Btn" style="margin-bottom: 10px;">Contact Us
+            </div>
+          </a>
+          <a data-fancybox href="https://www.youtube.com/watch?v=pKmL_6kDq2Q&ab_channel=StudioZafari">
+            <div class="Watch-Btn" style="margin-bottom: 10px; color: white;">
+              Our Work <img style="width: 15px; margin-bottom: -3px;"src="img/Play_Arrow_01.svg" alt="play"/>
+            </div>
+          </a>
+        </div>
+      </div>
+      <div id='lottie' style="margin-right: 20px; transform: translateY(-40px); z-index: -1;"></div>
+    </section>
+    <section title= "Products" class="sec-02" id="Products">
+        <div class="cat-sect" style="z-index: 2">
+              <div class="cat-boxes" id="bx-01" >
+                <div class="cat-tab">
+                </div>
+                <h1>Experiential Video Learning</h1>
+                <p>Large content dumps can be overwhelming for learners, rather make it practical…</p>
+                  <div class="cat-button">
+                    Discover Move
+                  </div>
+                  <a href="#Experiential"><span></span></a>
+              </div>
+              <div class="cat-boxes" id="bx-02">
+                <div class="cat-tab">
+                </div>
+                <h1>Interactive Video Adventures</h1>
+                <p>Branching video scenarios let your learner choose their own adventure…</p>
+                  <div class="cat-button">
+                    Discover Move
+                  </div>
+                  <a href="#Interactive"><span></span></a>
+              </div>
+              <div class="cat-boxes" id="bx-03">
+                <div class="cat-tab">
+                </div>
+                <h1 style="padding-right:20%">Stand-Alone Content</h1>
+                <p>We do anything from explainer animations to presenter-led videos…</p>
+                  <div class="cat-button">
+                    Discover Move
+                  </div>
+                  <a href="#Stand-Alone"><span></span></a>
+              </div>
+        </div>
+    </section>
+    <section title="videos" class="sec-09" id="Work">
+      <div class="vid-gal-cont" style="display: grid;">
+        <a data-fancybox href="https://vimeo.com/323107042?autoplay=1&loop=1&autopause=0">
+          <div class="overlay-box">
+            <div class="vid-box" id="vb-01">
+              <div class="cnt-bx">
+                <div>
+                  <h2>Campaigning Excellence</h2>
+                  <h5>UK Government</h5>
+                </div>
+              </div>
+            </div>
+          </div>
+        </a>
+        <script src="https://fast.wistia.com/embed/medias/4puideoo7j.jsonp" async></script>
+        <script src="https://fast.wistia.com/assets/external/E-v1.js" async></script>
+        <span class="wistia_embed wistia_async_4puideoo7j popover=true popoverContent=link videoFoam=false" style="display:inline;position:relative">
+          <a href="#">
+            <div class="overlay-box">
+              <div class="vid-box" id="vb-02">
+                <div class="cnt-bx">
+                  <div>
+                    <h2>Interim Salary Adjustments</h2>
+                    <h5>Momentum</h5>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </a>
+        </span>
+        <a data-fancybox href="https://vimeo.com/323104471?autoplay=1&loop=1&autopause=0">
+          <div class="overlay-box">
+            <div class="vid-box" id="vb-03">
+              <div class="cnt-bx">
+                <div>
+                  <h2>Crisis Communications</h2>
+                  <h5>UK Government</h5>
+                </div>
+              </div>
+            </div>
+          </div>
+        </a>
+        <script src="https://fast.wistia.com/embed/medias/9sn1pze3nm.jsonp" async></script>
+        <script src="https://fast.wistia.com/assets/external/E-v1.js" async></script>
+        <span class="wistia_embed wistia_async_9sn1pze3nm popover=true popoverContent=link videoFoam=false" style="display:inline;position:relative">
+          <a href="#">
+          <div class="overlay-box">
+            <div class="vid-box" id="vb-04" >
+              <div class="cnt-bx">
+                <div>
+                  <h2>Parenting Styles</h2>
+                  <h5>McGraw Hill</h5>
+                </div>
+              </div>
+            </div>
+          </div>
+        </a>
+      </span>
+      <script src="https://fast.wistia.com/embed/medias/imlebvksq4.jsonp" async></script>
+      <script src="https://fast.wistia.com/assets/external/E-v1.js" async></script>
+      <span class="wistia_embed wistia_async_imlebvksq4 popover=true popoverContent=link videoFoam=false" style="display:inline;position:relative">
+        <a href="#">
+          <div class="overlay-box">
+            <div class="vid-box" id="vb-05">
+              <div class="cnt-bx">
+                <div>
+                  <h2>This is Campaigning </br>Excellence</h2>
+                  <h5>UK Government</h5>
+                </div>
+              </div>
+            </div>
+          </div>
+        </a>
+        </span>
+        <script src="https://fast.wistia.com/embed/medias/24rnqdq0lh.jsonp" async></script>
+        <script src="https://fast.wistia.com/assets/external/E-v1.js" async></script>
+        <span class="wistia_embed wistia_async_24rnqdq0lh popover=true popoverContent=link videoFoam=false" style="display:inline;position:relative">
+          <a href="#">
+          <div class="overlay-box">
+            <div class="vid-box" id="vb-06">
+              <div class="cnt-bx">
+                <div>
+                  <h2>Green Hydrogen Community Development Toolkit</h2>
+                  <h5>GIZ</h5>
+                </div>
+              </div>
+            </div>
+          </div>
+        </a>
+        </span>
+        <script src="https://fast.wistia.com/embed/medias/6oa5055swx.jsonp" async></script>
+        <script src="https://fast.wistia.com/assets/external/E-v1.js" async></script>
+        <span class="wistia_embed wistia_async_6oa5055swx popover=true popoverContent=link videoFoam=false" style="display:inline;position:relative">
+          <a href="#">
+          <div class="overlay-box">
+            <div class="vid-box" id="vb-07">
+              <div class="cnt-bx">
+                <div>
+                  <h2>RoomRaccoon</h2>
+                  <h5>Hotel Management System</h5>
+                </div>
+              </div>
+            </div>
+          </div>
+        </a>
+        </span>
+        <script src="https://fast.wistia.com/embed/medias/qhu3biejp7.jsonp" async></script>
+        <script src="https://fast.wistia.com/assets/external/E-v1.js" async></script>
+        <span class="wistia_embed wistia_async_qhu3biejp7 popover=true popoverContent=link videoFoam=false" style="display:inline;position:relative">
+          <a href="#">
+          <div class="overlay-box">
+            <div class="vid-box" id="vb-08">
+              <div class="cnt-bx">
+                <div>
+                  <h2>QueaseEASE</h2>
+                  <h5>Soothing Scents</h5>
+                </div>
+              </div>
+            </div>
+          </div>
+        </a>
+        </span>
+        <script src="https://fast.wistia.com/embed/medias/0e3oa8nxf3.jsonp" async></script>
+        <script src="https://fast.wistia.com/assets/external/E-v1.js" async></script>
+        <span class="wistia_embed wistia_async_0e3oa8nxf3 popover=true popoverContent=link videoFoam=false" style="display:inline;position:relative">
+          <a href="#">
+          <div class="overlay-box">
+            <div class="vid-box" id="vb-09">
+              <div class="cnt-bx">
+                <div>
+                  <h2>Parallelograms</h2>
+                  <h5>Zafari Learn</h5>
+                </div>
+              </div>
+            </div>
+          </div>
+        </a>
+        </span>
+        <script src="https://fast.wistia.com/embed/medias/868n0jvhgu.jsonp" async></script>
+        <script src="https://fast.wistia.com/assets/external/E-v1.js" async></script>
+        <span class="wistia_embed wistia_async_868n0jvhgu popover=true popoverContent=link videoFoam=false" style="display:inline;position:relative">
+          <a href="#">
+          <div class="overlay-box">
+            <div class="vid-box" id="vb-10">
+              <div class="cnt-bx">
+                <div>
+                  <h2>Gender Equality</h2>
+                  <h5>INFF</h5>
+                </div>
+              </div>
+            </div>
+          </div>
+        </a>
+        </span>
+        <script src="https://fast.wistia.com/embed/medias/3db1placpp.jsonp" async></script>
+        <script src="https://fast.wistia.com/assets/external/E-v1.js" async></script>
+        <span class="wistia_embed wistia_async_3db1placpp popover=true popoverContent=link videoFoam=false" style="display:inline;position:relative">
+          <a href="#">
+          <div class="overlay-box">
+            <div class="vid-box" id="vb-11">
+              <div class="cnt-bx">
+                <div>
+                  <h2>Online Learning Portal</h2>
+                  <h5>Momentum</h5>
+                </div>
+              </div>
+            </div>
+          </div>
+        </a>
+        </span>
+        <script src="https://fast.wistia.com/embed/medias/cnd2scr02s.jsonp" async></script>
+        <script src="https://fast.wistia.com/assets/external/E-v1.js" async></script>
+        <span class="wistia_embed wistia_async_cnd2scr02s popover=true popoverContent=link videoFoam=false" style="display:inline;position:relative">
+          <a href="#">
+          <div class="overlay-box">
+            <div class="vid-box" id="vb-12">
+              <div class="cnt-bx">
+                <div>
+                  <h2>AMSA Saldanha Steel</h2>
+                  <h5>GIZ</h5>
+                </div>
+              </div>
+            </div>
+          </div>
+        </a>
+        </span>
+      </div>
+    </section>
+    <section title= "About Us" class="sec-03" id="About">
+      <div class="sec-03-desc" style="display: flex; flex-wrap: wrap; background-color: #f3f3f3;">
+            <div class="s3-text-div" style="color: var(--dark);">
+                <h2 style="padding: 0px 0px;">Educational Production Studio<span>.</span></h2>
+                <h4 style="padding-right: 0px">Need to teach people things online? Maybe you just want to share your know-how? Or spice up your website’s FAQ section?</h4>
+                <p style="color: var(--dark);"> We can help you create content worth sharing.</p>
+                <p style="color: var(--dark);">We combine our years of experience in learning design and video production to create engaging learning based content.</p>
+           </div>
+           <div class="sec-03-vid-container" style="align-items: center;">
+              <a data-fancybox href="https://www.youtube.com/watch?v=6UAjDfLMKt4&ab_channel=StudioZafari">
+                <div class="sec-03-vid-block" style="background-image: url('img/Maritime_Testimonials.png'); background-size: cover;">
+                  <img src="img/play.svg" alt="play video" width="80px" height="80px" style="margin: auto;">
+                </div>
+              </a>
+           </div>
+      </div>
+    </section>
+    <section title= "Experiential Learning" class="sec-04"id="Experiential" style="background-color:var(--dark)">
+      <div class="s-04-main" id="exp-block" style="background-color: var(--dark)">
+        <div class="s-04-block" id="scrEf">
+          <h6>Experiential Learning</h6>
+          <h2 style="color:#fff; white-space: nowrap;">Real-life</br>Scenarios<span>.</span></h2>
+          <h4 style="color:#fff">Large content dumps can be overwhelming for learners, rather make it practical, with experiential video learning.</h4>
+          <p>We create video stories simulating real-life scenarios to help your learners be better equipped for the real thing.</p>
+          <a href="#Contact"><div class="learn-btn">Learn More</div></a>
+        </div>
+      </div>
+    </section>
+    <section title= "Interactive Learning" class="sec-04"id="Interactive" style="background-color:var(--dark)">
+      <div class="s-04-main" id="exp-int" style="background-color: var(--dark); box-sizing: border-box;">
+        <div class="s-04-block" id="int-resp">
+          <h6>Interactive Adventures</h6>
+          <h2 style="color:#fff">Choose your Adventure<span>.</span></h2>
+          <h4 style="color:#fff">Branching video scenarios let your learner choose their own path thought the content.</h4>
+          <p>This interactive form of learning challenges your audience to make decisions and presents immediate consequences.  These simulations let them test out different approaches in a low-risk setting.</p>
+          <a href="#Contact"><div class="learn-btn">Learn More</div></a>
+        </div>
+      </div>
+    </section>
+    <section title= "Stand-alone content" class="sec-04"id="Stand-Alone" style="background-color:var(--dark)">
+      <div class="s-04-main" id="exp-block" style="background-color: var(--dark);">
+        <div class="s-04-block">
+          <h6>Stand-Alone content</h6>
+          <h2 style="color:#fff; white-space: nowrap;">Explainer</br>Videos<span>.</span></h2>
+          <h4 style="color:#fff">We do anything from explainer animations to presenter-led videos.</h4>
+            <p>Whether you have a blended approach or a fully online course, videos can be an engaging way of explaining difficult concepts. It’s important to cut through the noise so we break down complex content into engaging, catchy and easily consumable bites.</p>
+          <a href="#Contact"><div class="learn-btn">Learn More</div></a>
+        </div>
+      </div>
+    </section>
+    <section title= "Our Latest Content" class="sec-05" id="Latest" style="background-color:var(--dark)">
+      <div class="latest-cont">
+        <p style="color:#00ecbc; letter-spacing: 2px; font-weight: 900;">Our Latest Content</p>
+        <h2 style="margin: 20px;">Data Privacy</h2>
+        <h3 style="font-size: 40px; font-weight:100;margin: 10px;">What is a Cookie?</h3>
+        <p>Why are cookies so widely used online? Part of our interactive experience on Data Privacy</p>
+        <a data-fancybox href="https://www.youtube.com/watch?v=52zEnwqH5IM">
+        <div class="Watch-Btn">Watch Now!</div>
+        </a>
+      </div>
+    </section>
+    <section title= "Our Services" class="sec-07" id="Services" style="display: flex">
+      <div class="s-07-title">
+        <h2>Our Services<span>.</span></h2>
+        <h4>We offer a range of different services which we use to deliver high quality content to you.</h4>
+      </div>
+      <div class="services-list-block">
+          <div class="" style="justify-content: center; display: flex; flex-wrap: wrap;">
+              <div class="service-boxes">
+                <h3>Design</h3>
+                <div class="service-tab"></div>
+                <p>We will work with you to conceptualize and create a visual style</p>
+              </div>
+              <div class="service-boxes">
+                <h3>Scriptwriting</h3>
+                <div class="service-tab"></div>
+                <p>We’ll take your existing content and help mould it into engaging scripts, ready for filming or animating.</p>
+              </div>
+              <div class="service-boxes">
+                <h3>Filming</h3>
+                <div class="service-tab"></div>
+                <p>Flexible on-site filming. Whenever, where ever.</p>
+              </div>
+              <div class="service-boxes">
+                <h3>Animation</h3>
+                <div class="service-tab"></div>
+                <p>From Motion graphics to explainer animations</p>
+              </div>
+              <div class="service-boxes">
+                <h3>Editing</h3>
+                <div class="service-tab"></div>
+                <p>Stitching everything together to create engaging stories</p>
+              </div>
+          </div>
+      </div>
+    </section>
+    <section title= "Contact Us" class="sec-08" id="Contact" style="display: flex; flex-wrap: wrap;">
+      <div class="contact-text">
+        <div>
+          <h2>Contact Us<span>.</span> </h2>
+          <h4>Tell us what you are looking for and we will get back to you ASAP.</h4>
+          <p>You can also reach us on: <a href="mailto:info@studiozafari.com?Subject=Hello!">info@studiozafari.com</a></p>
+        </div>
+      </div>
+      <div class="contact-form">
+        <script type="text/javascript" src="https://form.jotform.com/jsform/212793995130563"></script>
+      </div>
+    </section>
+  </div>
+
+  <script src="js/lottie.js" type="text/javascript"></script>
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/fancybox/3.5.7/jquery.fancybox.min.js"></script>
+
+</body>
+  <script src="main.js" type="text/javascript"></script>
+</html>
